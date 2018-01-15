@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Edited Dreict to the Master
+=======
+<<<<<<< HEAD
+Edited on Branch Desktop
+=======
+Edited Direct to the Branch
+>>>>>>> 4c99beae7ae0b50614ec2dc7f786167b35194ad3
+>>>>>>> branch-1
